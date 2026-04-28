@@ -13,7 +13,7 @@ Un gestor basiquisimo de personas
 ```bash
 # 1. Clona el proyecto
 git clone git@github.com:daniiizm/EjercicioDAW.git
-cd daw
+cd EjercicioDAW
 
 # 2. Iniciamos todo
 docker compose up -d
