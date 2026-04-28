@@ -1,10 +1,10 @@
 
 <?php
 //estos datos se añaden en todas las páginas php que deben acceder a la BD
-$servername = "db-compose";
+$servername = "danidb";
 $username = "daw";
-$password = "qwerty";
-$dbname = "DAW";
+$password = "1234";
+$dbname = "daw";
 
 // Creamos el objeto conexión
 $conn = new mysqli($servername, $username, $password, $dbname);
