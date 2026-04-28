@@ -1,7 +1,7 @@
 
 <?php
 //estos datos se añaden en todas las páginas php que deben acceder a la BD
-$servername = "danidb";
+$servername = "db";
 $username = "daw";
 $password = "1234";
 $dbname = "daw";
